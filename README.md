@@ -103,3 +103,9 @@ public:
   string passion = "Problem Solving & Building Projects";
   void sayHi() { cout << "Thanks for visiting my profile! 🚀"; }
 };
+
+---
+
+## Repository navigation / التنقل في المستودع
+
+[English project guide](PROJECT_GUIDE.md) · [دليل المستودع بالعربية](PROJECT_GUIDE_AR.md) · [File index](docs/INDEX.md)
